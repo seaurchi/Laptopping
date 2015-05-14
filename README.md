@@ -1,0 +1,2 @@
+# Weather Music
+A silly patch I wrote in Max MSP for my final electro-acoustic music composition class. It basically sends a GET request to a weather API (http://openweathermap.org/) and gets the 5 day forecast for a particular city. Based on how sunny or rainy the weather is, the patch chooses between three chord progressions to play. The actual music that is played consists of frequency-modulated notes that are played rhythmically. I chose a few presets of rhythms and frequency modulations I thought sounded nice.
